@@ -8,8 +8,8 @@ from enum import Enum
 import time
 
 class BotAyarlari:
-    BOT_TOKEN = "8408140773:AAHN8JsGFcRBg0PZ8H0iRoti1YhsPA-3e3Q"
-    GEMINI_API_KEY = "AIzaSyAtQbZcxHV-Kk0AaQJKRg0SgijC9e-8TP0"
+    BOT_TOKEN = "token"
+    GEMINI_API_KEY = "gemini api"
     GEMINI_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent"
     MAKSIMUM_DENEME = 3
     ZAMAN_ASIMI = 30
